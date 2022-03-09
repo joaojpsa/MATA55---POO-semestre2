@@ -1,0 +1,19 @@
+As extensões
+
+Na página de documentação do VS-Code existe uma seção para linguagens, dentro da seção a “Linguagem Java” uma subseção chamada “Extensões” e nesta página é apresentada uma lista de extensões como sendo as básicas para o trabalho do VS-Code como uma ide para desenvolvimento na linguagem Java (https://code.visualstudio.com/docs/java/extensions). A seguir falando sobre algumas dessas extensões:
+
+    Language Support for Java(TM) by Red Hat
+    Debugger for Java
+    Java Test Runner
+    Maven for Java
+    Project Manager for Java
+    Visual Studio IntelliCode
+    Spring Boot Tools
+    Spring Initializr Java Support
+    Spring Boot Dashboard
+    Tomcat
+    CheckStyle
+    SonarLint
+    Java Linter
+    Lombok Annotations Support
+    Java Properties

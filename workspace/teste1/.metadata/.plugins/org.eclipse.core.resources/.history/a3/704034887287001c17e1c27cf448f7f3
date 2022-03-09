@@ -1,0 +1,11 @@
+package int_num;
+
+import java.util.Scanner;
+
+public class Addiction {
+
+	public static void main() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

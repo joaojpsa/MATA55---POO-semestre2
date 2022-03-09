@@ -1,0 +1,9 @@
+package int_num;
+
+public class Addiction {
+
+	public Addiction() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
