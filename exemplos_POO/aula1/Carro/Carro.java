@@ -31,5 +31,7 @@ class Veiculo{
         c1.reduzir_vel(10);
         System.out.println(c1.vel);
 
+        c1.buzinar();
+
     }
 }
