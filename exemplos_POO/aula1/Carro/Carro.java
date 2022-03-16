@@ -1,3 +1,5 @@
+package aula1.Carro;
+
 public class Carro{
     //atributos
     String modelo;
